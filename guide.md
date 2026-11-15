@@ -40,3 +40,4 @@ _hello_
 this is a new line
 this is a new line for newbranch
 this is a new line on local
+this is a new line on remote
