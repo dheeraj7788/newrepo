@@ -38,3 +38,4 @@ _hello_
 | Row 2  | Data  | More  |
 
 this is a new line
+this is a new line for newbranch
